@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <h1>  <title>Byraboyina Bhargavi- Portfolio</title></h1>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            color: #fff;
+            text-align: center;
+            
+        }
+
+        section {
+            max-width: 500px;
+            margin: 0 auto;
+            padding: 10px;
+            background-color: #fff;
+            border-radius: 5px;
+            
+            margin-top: 20px;
+        }
+
+        img {
+            max-width: 30%;
+            height: auto;
+            border-radius: 50%;
+        }
+
+        h1, h2 {
+            color: #333;
+        }
+
+        h2 {
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+
+        p {
+            color: #555;
+        }
+
+        .contact-info {
+            display: flex;
+            align-items: center;
+        }
+
+        .contact-info img {
+            margin-right: 5px;
+        }
+
+        footer {
+            text-align: center;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <img src="C:\Users\HP\Pictures\WhatsApp Image 2023-11-01 at 10.33.39 PM.jpg" height="100" width="200" alt="Bhargavi">
+        <h1>Byraboyina Bhargavi</h1>
+        <p>Web Developer</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            Hello! I'm a passionate web developer with experience in HTML, CSS, and JavaScript.
+            I love creating responsive and user-friendly websites that provide a great user experience.
+        </p>
+    </section>
+
+    <section>
+        <h2>Contact Information</h2>
+        <div class="3 year BTECH">
+            <img src="C:\Users\HP\Downloads\download.png" height="90"width="100" alt="Email">
+            <p>mail: byraboyinabhargavi014@gmail..com</p>
+        </div>
+        <div class="contact-info">
+            <img src="C:\Users\HP\Downloads\6815116.png" height="90"width="100" alt="Phone">
+            <p>Phone no:9394103114</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <p>HTML, CSS, JavaScript, React, Node.js</p>
+    </section>
+
+    <section>
+        <h2>Resume</h2>
+        <p>Download my resume <a href="c:\Users\HP\Downloads\sumathi resume.docx"target="_blank">here</a>.</p>
+    </section>
+
+    <footer>
+        &copy; 2023 Bhargavi| Portfolio
+    </footer>
+
+</body>
+</html>
