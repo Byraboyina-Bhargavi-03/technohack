@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Company Name - Welcome</title>
+    <style>
+        body {
+            background-image: url('https://preview.uideck.com/items/slick/business/img/intro.png');
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        main {
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Our Company <b>TechnoHacks EduTech</b></h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>About Us</h2>
+            <p>
+                TechnoHacks belives that with the proper mentorship everyone can reach the goals. 
+                They also provide the Internships and Placement training to the students. 
+                Their mission is to provide platform to students and working proffessionals to improve their skillset and rock into IT industry. 
+                Their vision is to provide world class quality skills
+
+
+                 </p>
+        </section>
+
+        <section>
+            <h2> OUR Internships</h2>
+            <a  href="c:\Users\HP\Downloads\TechnoHacks Learning Portal.html">TechnoHacks </a>
+        </section>
+
+        <section>
+            <h2>Contact Us</h2>
+            <p>Email: TechnoHacks@gmail.com</p>
+          <p>  Call or WhatAapp Us on :+91 8208937014</p>
+        </section>
+    </main>
+
+    <footer>
+        &copy; 2023 TechnoHacks. All rights reserved.
+    </footer>
+</body>
+</html>
